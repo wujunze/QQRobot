@@ -32,7 +32,7 @@ SmartQQUrl = 'http://w.qq.com/login.html'
 VFWebQQ = ''
 AdminQQ = '0'
 MyUIN = ''
-tulingkey='#YOUR KEY HERE#'
+tulingkey='bd5796d4bfcd4a758bcf5ea8e5caacdb'
 
 initTime = time.time()
 
